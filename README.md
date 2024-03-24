@@ -23,7 +23,30 @@ STEP 7: Use cross tabulation method to quantitatively analyze the relationship b
 STEP 8: Use heatmap method of representation to show relationships between two variables, one plotted on each axis.
 
 ## CODING AND OUTPUT
-        <<INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS>>
+Developed by: SREE HARI K
+
+Reg.No: 212223230212
+
+
+![image](https://github.com/Meenu2823/EXPNO2DS/assets/139416219/abbf9424-2ffa-4fb9-a420-e6041bac4678)
+![image](https://github.com/Meenu2823/EXPNO2DS/assets/139416219/8859c594-b38f-413d-9ebb-925b0681bc55)
+![image](https://github.com/Meenu2823/EXPNO2DS/assets/139416219/5142b229-51ea-4130-819c-f8c66c531272)
+![image](https://github.com/Meenu2823/EXPNO2DS/assets/139416219/f76f182f-6f43-4656-8521-257b5f776213)
+![image](https://github.com/Meenu2823/EXPNO2DS/assets/139416219/55338a95-44f9-4c3b-aece-0661471062e0)
+![image](https://github.com/Meenu2823/EXPNO2DS/assets/139416219/3f2d6173-0724-4f5a-88f1-b63784c6ad14)
+![image](https://github.com/Meenu2823/EXPNO2DS/assets/139416219/bbe4081f-6010-4728-84f2-0a224a4213d8)
+![image](https://github.com/Meenu2823/EXPNO2DS/assets/139416219/5337cd68-3a2a-4958-b15f-5c0e644eef63)
+![image](https://github.com/Meenu2823/EXPNO2DS/assets/139416219/1e9dd579-889c-4f48-b704-939398b3912c)
+![image](https://github.com/Meenu2823/EXPNO2DS/assets/139416219/1d03d3ee-4ebb-4d47-a852-3276bd58970b)
+![image](https://github.com/Meenu2823/EXPNO2DS/assets/139416219/3a61ceee-9dba-48de-af1d-d0a8cbf05eed)
+![image](https://github.com/Meenu2823/EXPNO2DS/assets/139416219/58bc809b-e7cf-44f8-86dc-c815cfc85c1a)
+![image](https://github.com/Meenu2823/EXPNO2DS/assets/139416219/6000a21b-0c7e-4790-8167-722e740d6524)
+![image](https://github.com/Meenu2823/EXPNO2DS/assets/139416219/f88cf6a2-a002-4191-84f7-15fa437654ea)
+![image](https://github.com/Meenu2823/EXPNO2DS/assets/139416219/95a9791f-501c-4326-870b-8bc156f4f27c)
+![image](https://github.com/Meenu2823/EXPNO2DS/assets/139416219/5f1daa2c-c226-4bb0-b128-108a589754b7)
+![image](https://github.com/Meenu2823/EXPNO2DS/assets/139416219/6f5217fc-e61b-47be-a1c3-af883b62d3da)
+![image](https://github.com/Meenu2823/EXPNO2DS/assets/139416219/a0824831-b580-4ad7-858e-6c1bbc659104)
 
 # RESULT
-        <<INCLUDE YOUR RESULT HERE>>
+        Thus,the Exploratory Data Analysis has been performed successfully on the given data set.
+
